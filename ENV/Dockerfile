@@ -1,5 +1,5 @@
 FROM almalinux:9
-ENV trainer="Kranthi Bandari" 
+ENV trainer="Shiva Bandari" 
     course="docker"
     duration="100hrs"
-CMD [ "sleep", "100" ]
+CMD [ "sleep", "10000" ]
