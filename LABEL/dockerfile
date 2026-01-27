@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL author="Kranthi Bandari" \
+course="DAWS-78S" \
+description="This Dockerfile installs Nginx on AlmaLinux 9 and sets it to run in the foreground."
